@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-In order to **recieve benefit** as a *role*, i can **goals/desires**
+In order to **receive benefit** as a *role*, i can **goals/desires**
 
-Acceptance Criteria 
+# Acceptance Criteria 
  
-AC 1
-AC 2 
-AC 3
+## Acceptance Criteria 1
+## Acceptance Criteria 2 
+## Acceptance Criteria 3
